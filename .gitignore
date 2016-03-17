@@ -1,2 +1,5 @@
 /Marya.MeasurementManager.DomainModel/bin
 /Marya.MeasurementManager.DomainModel/obj
+/Marya.MeasurementManager.Repository.Fake/bin
+/Marya.MeasurementManager.Repository.Fake/obj
+/.vs/Marya.MeasurementManager/v14/*.suo

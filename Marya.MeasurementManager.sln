@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marya.MeasurementManager.DomainModel", "Marya.MeasurementManager.DomainModel\Marya.MeasurementManager.DomainModel.csproj", "{11CA7DE6-1730-43E6-934E-9855275FEF84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marya.MeasurementManager.Repository.Fake", "Marya.MeasurementManager.Repository.Fake\Marya.MeasurementManager.Repository.Fake.csproj", "{4FB2BC35-C609-4C04-8BD5-A6CF2F45A17B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{11CA7DE6-1730-43E6-934E-9855275FEF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11CA7DE6-1730-43E6-934E-9855275FEF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11CA7DE6-1730-43E6-934E-9855275FEF84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB2BC35-C609-4C04-8BD5-A6CF2F45A17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB2BC35-C609-4C04-8BD5-A6CF2F45A17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB2BC35-C609-4C04-8BD5-A6CF2F45A17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB2BC35-C609-4C04-8BD5-A6CF2F45A17B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
